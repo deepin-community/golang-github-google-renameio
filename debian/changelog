@@ -1,5 +1,33 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-google-renameio (2.0.0-2) unstable; urgency=medium
 
-  * Initial release
+  [ Debian Janitor ]
+  * Apply multi-arch hints. + golang-github-google-renameio-dev: Add Multi-Arch: foreign.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sat, 26 Nov 2022 14:23:40 +0000
+
+golang-github-google-renameio (2.0.0-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream Release
+
+ -- Faustin Lammler <faustin@fala.red>  Tue, 09 Nov 2021 17:42:27 +0100
+
+golang-github-google-renameio (0.1.0-3) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Sat, 21 Aug 2021 12:27:46 +0100
+
+golang-github-google-renameio (0.1.0-2) unstable; urgency=medium
+
+  * Source-only upload for migration to testing
+
+ -- Anthony Fok <foka@debian.org>  Sun, 08 Mar 2020 06:08:40 -0600
+
+golang-github-google-renameio (0.1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #952654)
+
+ -- Anthony Fok <foka@debian.org>  Wed, 26 Feb 2020 14:51:13 -0700
